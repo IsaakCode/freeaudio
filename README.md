@@ -90,6 +90,8 @@ Weresax (Karoryfer) https://github.com/sfzinstruments/karoryfer.weresax
 
 Bearsax (Karoryfer) https://github.com/sfzinstruments/karoryfer.bear-sax
 
+Noisecrux Brass Ensemble http://www.noisecrux.com/2013/09/29/brass-ensemble-sampler-instrument/
+
 
 #### Synths Sampled
 
@@ -101,3 +103,7 @@ Bass City (99 Sounds / Patch Arena) https://99sounds.org/bass-city/
 Versilian Studios Freeware Projects https://vis.versilstudios.com/products.html#freeware
 
 Patch Arena [Archived](http://web.archive.org/web/20170704202210/http://patcharena.com/downloads/index.php?subcat=168&ENGINEsessID=cd17d509b38cd78dd024dfc14751ba9c)
+
+FreePats Project by Zenvoid https://freepats.zenvoid.org/
+
+Aria Engine Free Sounds http://ariaengine.com/forums/index.php?p=/discussion/5783/free-sounds-for-aria-engine#Item_1
