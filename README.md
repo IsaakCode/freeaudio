@@ -6,7 +6,7 @@ Brought to you by Synthiemental (in the making)
 Any questions? Here you can forward an issue: https://github.com/IsaakCode/freeaudio/issues
 
 
-### Free multisamples / libraries (mostly in the open SFZ format, nothing that requires paid software - eg. no NI Kontakt libraries)
+### Free multisample instruments & libraries (mostly in the open SFZ format, nothing that requires paid software - eg. no NI Kontakt libraries)
 
 
 #### Acoustic Piano
