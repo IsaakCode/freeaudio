@@ -25,6 +25,8 @@ jRhodes 3c (Jeff Learman) https://github.com/sfzinstruments/jlearman.jRhodes3c
 
 Greg Sullivan's E-Pianos https://github.com/sfzinstruments/GregSullivan.E-Pianos
 
+mRhodes (Markus Kaes, SFZ by Kinwie) https://github.com/sfzinstruments/mappings/tree/master/Pianobook%20SFZ/MRhodes
+
 
 #### Electric Bass Guitar
 
