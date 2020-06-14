@@ -32,6 +32,8 @@ mRhodes (Markus Kaes, SFZ by Kinwie) https://github.com/sfzinstruments/mappings/
 
 Standard Bass (Unreal Instruments) https://unreal-instruments.wixsite.com/unreal-instruments/standard-bass
 
+Precision E-Bass (Fiedler Audio) https://www.fiedler-audio.de/creative-commons-library/
+
 Rickenbacker 4001 (Project 16)
 
 Xmas Bass (Gregjazz) https://github.com/sfzinstruments/mappings/tree/master/gregjazz%20xmas%20bass
