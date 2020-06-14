@@ -3,8 +3,10 @@ An obsessively-compulsive curated list of freely available samples, virtual inst
 
 Brought to you by Synthiemental (in the making)
 
+Any questions? Here you can forward an issue: https://github.com/IsaakCode/freeaudio/issues
 
-### Free multisample libraries (open source SFZ Format - playable with Sforzando by Plogue)
+
+### Free multisamples / libraries (mostly in the open SFZ format, nothing that requires paid software - eg. no NI Kontakt libraries)
 
 
 #### Acoustic Piano
@@ -14,6 +16,14 @@ Headroom Piano (Bengt Nilsson) https://github.com/sfzinstruments/BengtNilsson.He
 Splendid Grand Piano https://github.com/sfzinstruments/SplendidGrandPiano
 
 Salamander Grand Piano https://github.com/sfzinstruments/SalamanderGrandPiano
+
+Maestro Concert Grand (Mats Helgesson) https://github.com/sfzinstruments/MatsHelgesson.MaestroConcertGrandPiano
+
+#### Electric Piano
+
+jRhodes 3c (Jeff Learman) https://github.com/sfzinstruments/jlearman.jRhodes3c
+
+Greg Sullivan's E-Pianos https://github.com/sfzinstruments/GregSullivan.E-Pianos
 
 
 #### Electric Bass Guitar
