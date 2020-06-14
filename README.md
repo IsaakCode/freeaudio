@@ -24,6 +24,8 @@ Past To Future Motown Drums Vol. 6 https://github.com/sfzinstruments/mappings/tr
 
 Colombo Acoustic Drum Kit (Freepats, Marcos Guglielmetti) https://freepats.zenvoid.org/Percussion/acoustic-drum-kit.html
 
+Pettinhouse Free Brush Kit
+
 
 #### Percussion
 
