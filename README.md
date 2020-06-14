@@ -29,6 +29,8 @@ Colombo Acoustic Drum Kit (Freepats, Marcos Guglielmetti) https://freepats.zenvo
 
 Gogodze Phu Vol I (Karoryfer) https://www.karoryfer.com/karoryfer-samples/wydawnictwa/gogodze-phu-i
 
+Dim Cabasa (by kinwie) https://www.kvraudio.com/forum/viewtopic.php?t=331065
+
 One Man Tribe Sounds (Ben Aylon) https://www.benaylon.com/sounds/free-pack
 
 World percussion (Freepats) https://freepats.zenvoid.org/Percussion/world-and-rare-percussion.html
