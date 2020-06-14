@@ -96,8 +96,8 @@ Bearsax (Karoryfer) https://github.com/sfzinstruments/karoryfer.bear-sax
 Bass City (99 Sounds / Patch Arena) https://99sounds.org/bass-city/
 
 
-## Sample collections (SFZ format)
+## other Sample collections (SFZ format)
 
 Versilian Studios Freeware Projects https://vis.versilstudios.com/products.html#freeware
 
-Patch Arena [http://web.archive.org/web/20170704202210/http://patcharena.com/downloads/index.php?subcat=168&ENGINEsessID=cd17d509b38cd78dd024dfc14751ba9c "Archived"]
+Patch Arena [Archived][http://web.archive.org/web/20170704202210/http://patcharena.com/downloads/index.php?subcat=168&ENGINEsessID=cd17d509b38cd78dd024dfc14751ba9c]
