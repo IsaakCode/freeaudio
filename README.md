@@ -30,9 +30,9 @@ mRhodes (Markus Kaes, SFZ by Kinwie) https://github.com/sfzinstruments/mappings/
 
 #### Electric Bass Guitar
 
-Viktor Černý Bass Guitar https://www.youtube.com/watch?v=eT6LNInI7xs
-
 Standard Bass (Unreal Instruments) https://unreal-instruments.wixsite.com/unreal-instruments/standard-bass
+
+Rickenbacker 4001 (Project 16)
 
 Xmas Bass (Gregjazz) https://github.com/sfzinstruments/mappings/tree/master/gregjazz%20xmas%20bass
 
@@ -41,6 +41,8 @@ Swagbass (Karoryfer) https://github.com/sfzinstruments/karoryfer.swagbass
 Pastabass (Karoryfer) https://github.com/sfzinstruments/karoryfer.pastabass
 
 Fashionbass (Karoryfer) https://github.com/sfzinstruments/karoryfer.fashionbass
+
+Viktor Černý Bass Guitar https://www.youtube.com/watch?v=eT6LNInI7xs
 
 
 #### Brass and Woodwinds
