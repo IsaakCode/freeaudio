@@ -54,11 +54,11 @@ https://floaudio.bandcamp.com/album/fender-vibro-champ-amp-spring-reverb-impulse
 Classic King Tubby style Spring Reverbs by Dubbhism
 http://www.dubbhism.org/2008/10/free-download-60-classic-and-king-tubby.html
 
+Henry Olonga Beautiful Room - Great room-type reverb sound created using hardware
+http://www.nebulapresets.com/?product=henry-olonga-beautiful-room-impulse-responses-192-khz
+
 
 ## Real places & spaces, indoors & outdoors
-
-Henry Olonga Beautiful Room -
-http://www.nebulapresets.com/?product=henry-olonga-beautiful-room-impulse-responses-192-khz
 
 Fokke van Saane impulses - real spaces, devices and reverbs
 https://fokkie.home.xs4all.nl/IR.htm , everything converted to wav [here](https://www.dropbox.com/s/ynelz37103kkrxc/Fokke%20van%20Saane.zip?dl=0&file_subpath=%2FFokke+van+Saane)
