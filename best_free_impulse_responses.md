@@ -1,5 +1,6 @@
 # These are some of my favorite Impulse Responses / IR collections freely available
 #### There are some rather rare / obscure collections included, that are barely known. I'm particularly fond of impulses that capture real indoor and outdoor locations, as well as classic analog hardware (eg plate reverbs)... work in progress!!
+compiled and curated by Isaak M. aka Synthiemental
 
 
 ## digital & analog reverbs, plates, springs, hardware gear
