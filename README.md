@@ -81,7 +81,6 @@ Fashionbass (Karoryfer) https://github.com/sfzinstruments/karoryfer.fashionbass
 
 Viktor Černý Bass Guitar https://www.youtube.com/watch?v=eT6LNInI7xs
 
-
 #### Brass and Woodwinds
 
 Sax On The Beach (Samplephonics) https://www.noiiz.com/sounds/free_packs/972
@@ -92,10 +91,28 @@ Bearsax (Karoryfer) https://github.com/sfzinstruments/karoryfer.bear-sax
 
 Noisecrux Brass Ensemble http://www.noisecrux.com/2013/09/29/brass-ensemble-sampler-instrument/
 
+#### Strings
+
+SCC Expressive Strings (S. Christian Collins) http://schristiancollins.com/vi-orchestra.php
+
+Box Violin Sustains & Swells (David Hilowitz) https://www.decentsamples.com/product/box-violin-sustains-swells-kontakt-sfz-free/
+
+Box Violin Harmonics (David Hilowitz) https://www.decentsamples.com/product/box-violin-harmonics-kontakt-ableton-sfz-free/
+
+Lewis E. Pyle Violin (David Hilowitz) https://www.decentsamples.com/product/lewis-e-pyle-violin-kontakt-ableton-sfz-free/
+
+Karoryfer x bigcat cello https://www.karoryfer.com/karoryfer-samples/wydawnictwa/cello
+
+Meatbass Acoustic Double Bass (Karoryfer) https://www.karoryfer.com/karoryfer-samples/wydawnictwa/meatbass
+
+Marmixer Arco Vibrato HQ Violin (Marmixer & ldk1609) https://www.kvraudio.com/forum/viewtopic.php?f=42&t=453859&p=6353349&hilit=violin+free#p6353349
+
 
 #### Synths Sampled
 
 Bass City (99 Sounds / Patch Arena) https://99sounds.org/bass-city/
+
+TX81Z: JB1STBass_-_01.sfz (Patcharena) http://web.archive.org/web/20150421010215/http://patcharena.com/downloads/comment.php?dlid=1285&ENGINEsessID=42dc2a6daa51b7ae94a47282126ebb3e
 
 
 ## other Sample collections (SFZ format)
