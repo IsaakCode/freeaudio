@@ -1,7 +1,7 @@
 # freeaudio
-An obsessively-compulsive curated list of freely available samples, virtual instruments and effects
+An obsessively-compulsive curated list of freely available sample libraries - mainly in the open SFZ format (use Sforzando by Plogue as a free player). In progress
 
-Brought to you by Synthiemental (in the making)
+Brought to you by Synthiemental aka Isaak M. 
 
 Any questions? Here you can forward an issue: https://github.com/IsaakCode/freeaudio/issues
 
