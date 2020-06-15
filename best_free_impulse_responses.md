@@ -1,6 +1,7 @@
 # These are some of my favorite Impulse Responses / IR collections freely available
-#### There are some rather rare / obscure collections included, that are barely known. I'm particularly fond of impulses that capture real indoor and outdoor locations, as well as classic analog hardware (eg plate reverbs)... work in progress!!
-compiled and curated by Isaak M. aka Synthiemental
+#### There are some rather rare / obscure collections included, that are barely known. I'm particularly fond of impulses that capture real indoor and outdoor locations, as well as classic analog hardware (eg plate reverbs)... work in progress! If you have any question simply forward an [issue report](https://github.com/IsaakCode/freeaudio/issues)
+
+Please support the providers of these great gems by buying their commercial products! List compiled and curated by Isaak M. aka Synthiemental
 
 
 ## digital & analog reverbs, plates, springs & hardware gear
@@ -56,6 +57,9 @@ http://www.dubbhism.org/2008/10/free-download-60-classic-and-king-tubby.html
 
 ## Real places & spaces, indoors & outdoors
 
+Henry Olonga Beautiful Room -
+http://www.nebulapresets.com/?product=henry-olonga-beautiful-room-impulse-responses-192-khz
+
 Fokke van Saane impulses - real spaces, devices and reverbs
 https://fokkie.home.xs4all.nl/IR.htm , everything converted to wav [here](https://www.dropbox.com/s/ynelz37103kkrxc/Fokke%20van%20Saane.zip?dl=0&file_subpath=%2FFokke+van+Saane)
 
@@ -103,6 +107,8 @@ https://floaudio.fr/product/flo-audio-x-rooms-demo/
 
 ## guitar & bass amp cabinets (coming soon)
 
+Henry Olonga Amps Bundle Community Edition
+http://www.nebulapresets.com/Henry_Olonga_ULTRA_HiRes_Amp_Models_VOL_1.zip
 
 
 
