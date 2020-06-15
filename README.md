@@ -10,6 +10,8 @@ Any questions? Here you can forward an issue: https://github.com/IsaakCode/freea
 
 #### Acoustic Drumsets
 
+AVL Drumkits http://www.bandshed.net/avldrumkits/
+
 MF Natural Drumset (Fiedler Audio) https://www.fiedler-audio.de/creative-commons-library/
 
 Naked Drums (Wilkinson Audio, SFZ by kinwie) 
