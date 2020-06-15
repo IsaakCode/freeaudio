@@ -25,6 +25,9 @@ https://fokkie.home.xs4all.nl/IR.htm , everything converted to wav [here](https:
 PastToFuture Reverbs Freebies - (free IRs are shown together with free libraries, check their paid stuff - great and affordable!)
 https://gumroad.com/pasttofuturereverbs?maxPrice=0
 
+Greg Hopkins / Hopkins Media Services free impulse collection - analog & digital reverb devices, real outdoor & indoor spaces
+https://www.dropbox.com/sh/vjf5bsi28hcrkli/AADNjt1AmES9TsEBblLrjUAaa?dl=0
+
 ## Real places & spaces, indoors & outdoors
 
 Fokke van Saane impulses - real spaces, devices and reverbs
