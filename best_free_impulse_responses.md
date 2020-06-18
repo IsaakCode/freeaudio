@@ -57,6 +57,9 @@ http://www.dubbhism.org/2008/10/free-download-60-classic-and-king-tubby.html
 Henry Olonga Beautiful Room - Great room-type reverb sound created using hardware
 http://www.nebulapresets.com/?product=henry-olonga-beautiful-room-impulse-responses-192-khz
 
+Studio Nord Bremen Analog Reverbs (EMT Plate & AKG Spring)
+http://www.grgr.de/IR/
+
 
 ## Real places & spaces, indoors & outdoors
 
@@ -109,6 +112,9 @@ https://floaudio.fr/product/flo-audio-x-rooms-demo/
 
 Henry Olonga Amps Bundle Community Edition
 http://www.nebulapresets.com/Henry_Olonga_ULTRA_HiRes_Amp_Models_VOL_1.zip
+
+Studio Nord Bremen Amps
+http://www.grgr.de/IR/
 
 
 
