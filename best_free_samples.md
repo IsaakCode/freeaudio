@@ -1,9 +1,6 @@
 # freeaudio
-An obsessively-compulsive curated list of freely available sample libraries - mainly in the open SFZ format (use Sforzando by Plogue as a free player). In progress
+A curated list of freely available sample libraries - mainly in the open SFZ format (use Sforzando by Plogue as a free player). Work in progress
 
-Brought to you by Synthiemental aka Isaak M. 
-
-Any questions? Here you can forward an issue: https://github.com/IsaakCode/freeaudio/issues
 
 
 ### Free multisample instruments & libraries (mostly in the open SFZ format, nothing that requires paid software - eg. no NI Kontakt libraries)
