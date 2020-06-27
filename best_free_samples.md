@@ -45,6 +45,8 @@ No_Use Ratchet Guiro Samples https://www.mediafire.com/file/rnop1a7husuzd7d/ratc
 
 Reinsamba Cuica https://freesound.org/people/reinsamba/packs/1339/
 
+Sylvain Kuntzmann Congas https://github.com/skuntzmann/Congas-Edition-Soundfont-V1.0
+
 
 #### Acoustic Piano
 
@@ -63,6 +65,11 @@ jRhodes 3c (Jeff Learman) https://github.com/sfzinstruments/jlearman.jRhodes3c
 Greg Sullivan's E-Pianos https://github.com/sfzinstruments/GregSullivan.E-Pianos
 
 mRhodes (Markus Kaes, SFZ by Kinwie) https://github.com/sfzinstruments/mappings/tree/master/Pianobook%20SFZ/MRhodes
+
+
+#### Guitar and Plucked Strings
+
+TavyMusic Plucked Strings https://www.dropbox.com/s/fyy06nxzvt4d9s6/PluckedStrings.7z?dl=0
 
 
 #### Electric Bass Guitar
@@ -92,6 +99,10 @@ Weresax (Karoryfer) https://github.com/sfzinstruments/karoryfer.weresax
 Bearsax (Karoryfer) https://github.com/sfzinstruments/karoryfer.bear-sax
 
 Noisecrux Brass Ensemble http://www.noisecrux.com/2013/09/29/brass-ensemble-sampler-instrument/
+
+Suono Elettronico Muted Trumpet http://www.suonoelettronico.com/soundfont_scaricare_sf2.asp?nome=Tromba%20con%20sordina
+
+Suono Elettronico Trombone http://www.suonoelettronico.com/soundfont_scaricare_sf2.asp?nome=Trombone
 
 #### Strings
 
