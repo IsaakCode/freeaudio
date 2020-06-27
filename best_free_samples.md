@@ -1,6 +1,6 @@
 # Free Sample libraries
 
-### Free multisample instruments & libraries (mostly in the open SFZ format, nothing that requires paid software - eg. no NI Kontakt libraries). A curated list of freely available sample libraries. Work in progress
+### Free instrument libraries (mostly in the open SFZ format, nothing that requires paid software - eg. no NI Kontakt libraries). A curated list. Work in progress
 
 
 #### Acoustic Drumsets
