@@ -127,6 +127,8 @@ Marmixer Arco Vibrato HQ Violin (Marmixer & ldk1609) https://www.kvraudio.com/fo
 
 Bass City (99 Sounds / Patch Arena) https://99sounds.org/bass-city/
 
+BPB Mini Analogue Collection https://bedroomproducersblog.com/2012/06/13/bpb-mini-analogue-collection-free-sample-pack/
+
 TX81Z: JB1STBass_-_01.sfz (Patcharena) http://web.archive.org/web/20150421010215/http://patcharena.com/downloads/comment.php?dlid=1285&ENGINEsessID=42dc2a6daa51b7ae94a47282126ebb3e
 
 
