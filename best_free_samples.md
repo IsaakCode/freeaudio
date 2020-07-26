@@ -3,7 +3,7 @@
 ### Free instrument libraries (mostly in the open SFZ format, nothing that requires paid software - eg. no NI Kontakt libraries). A curated list. Work in progress
 
 
-#### Acoustic Drumsets
+#### Acoustic Drums
 
 AVL Drumkits http://www.bandshed.net/avldrumkits/
 
@@ -23,6 +23,10 @@ Colombo Acoustic Drum Kit (Freepats, Marcos Guglielmetti) https://freepats.zenvo
 
 Brush Kit Free (Pettinhouse, SFZ by SWTrex) https://github.com/sfzinstruments/mappings/blob/master/Pettinhouse%20Brush%20Kit%20Free/readme.md
 
+Samplephonics 513 Free Tube Drum Samples https://www.samplephonics.com/products/free/drums/513-free-tube-drum-samples
+
+Samplephonics Smashed Analogue Kit https://www.noiiz.com/sounds/free_packs/734
+
 
 #### Percussion
 
@@ -41,6 +45,9 @@ No_Use Ratchet Guiro Samples https://www.mediafire.com/file/rnop1a7husuzd7d/ratc
 Reinsamba Cuica https://freesound.org/people/reinsamba/packs/1339/
 
 Sylvain Kuntzmann Congas https://github.com/skuntzmann/Congas-Edition-Soundfont-V1.0
+
+Sample Phonics Gambian Percussion Freebie https://www.noiiz.com/sounds/free_packs/950
+ 
 
 
 #### Acoustic Piano
