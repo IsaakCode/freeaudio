@@ -138,6 +138,8 @@ SFZinstruments on GitHub https://github.com/sfzinstruments
 
 Versilian Studios Freeware Projects https://vis.versilstudios.com/products.html#freeware
 
+Bandshed Collection http://www.bandshed.net/sounds/sfz/
+
 Patch Arena [Archived](http://web.archive.org/web/20170704202210/http://patcharena.com/downloads/index.php?subcat=168&ENGINEsessID=cd17d509b38cd78dd024dfc14751ba9c)
 
 FreePats Project by Zenvoid https://freepats.zenvoid.org/
