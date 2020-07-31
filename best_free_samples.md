@@ -5,6 +5,8 @@
 
 #### Acoustic Drums
 
+Strike Sound Home Kit http://strikesound.limitedrun.com/products/554846-strike-sound-home-kit
+
 AVL Drumkits http://www.bandshed.net/avldrumkits/
 
 MF Natural Drumset (Fiedler Audio) https://www.fiedler-audio.de/creative-commons-library/
