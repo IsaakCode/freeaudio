@@ -40,6 +40,8 @@ One Man Tribe Sounds (Ben Aylon) https://www.benaylon.com/sounds/free-pack
 
 World percussion (Freepats) https://freepats.zenvoid.org/Percussion/world-and-rare-percussion.html
 
+Petros Fera Djembuka https://gumroad.com/petrosfera?recommended_by=library#DugU
+
 Auxiliary Percussion (Michael Picher) https://www.michaelpichermusic.com/auxiliary-percussion
 
 No_Use Ratchet Guiro Samples https://www.mediafire.com/file/rnop1a7husuzd7d/ratchet_samples_%2528wav%2529.zip/file
