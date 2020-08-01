@@ -29,6 +29,8 @@ Samplephonics 513 Free Tube Drum Samples https://www.samplephonics.com/products/
 
 Samplephonics Smashed Analogue Kit https://www.noiiz.com/sounds/free_packs/734
 
+Organic Loops Free Loops & One Shots https://www.organicdrumloops.com/
+
 
 #### Percussion
 
