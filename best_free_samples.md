@@ -25,6 +25,8 @@ Colombo Acoustic Drum Kit (Freepats, Marcos Guglielmetti) https://freepats.zenvo
 
 Brush Kit Free (Pettinhouse, SFZ by SWTrex) https://github.com/sfzinstruments/mappings/blob/master/Pettinhouse%20Brush%20Kit%20Free/readme.md
 
+Taiko Drum SFZ by Isaac Cotec https://gumroad.com/l/qjUSo
+
 Samplephonics 513 Free Tube Drum Samples https://www.samplephonics.com/products/free/drums/513-free-tube-drum-samples
 
 Samplephonics Smashed Analogue Kit https://www.noiiz.com/sounds/free_packs/734
