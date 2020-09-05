@@ -63,6 +63,8 @@ http://www.grgr.de/IR/
 
 ## Real places & spaces, indoors & outdoors
 
+EdV3rb – LITE - industry & factory hall, staircase https://tovusound.com/shop/edv3rb-lite/
+
 Fokke van Saane impulses - real spaces, devices and reverbs
 https://fokkie.home.xs4all.nl/IR.htm , everything converted to wav [here](https://www.dropbox.com/s/ynelz37103kkrxc/Fokke%20van%20Saane.zip?dl=0&file_subpath=%2FFokke+van+Saane)
 
