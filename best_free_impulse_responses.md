@@ -107,7 +107,8 @@ http://www.morevox.com/web/freebbie.html
 Flo Audio x Rooms demo
 https://floaudio.fr/product/flo-audio-x-rooms-demo/
 
-
+Professor Angelo Farina's public impulse responses of various theaters
+http://pcfarina.eng.unipr.it/Public/IMP-RESP/
 
 
 ## guitar & bass amp cabinets (coming soon)
