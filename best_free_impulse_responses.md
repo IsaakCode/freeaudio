@@ -116,6 +116,9 @@ https://freesound.org/people/jonsept/packs/32541/
 MoreVox Free Pack 2020 - some real spaces and some analog devices captured
 http://www.morevox.com/web/freebbie.html
 
+Reaperblog Kidsróom IRs
+https://www.dropbox.com/s/vshg2hnzt8ikdpu/REAPERBLOG_KIDSROOM_IRS.zip?dl=0
+
 Flo Audio x Rooms demo
 https://floaudio.fr/product/flo-audio-x-rooms-demo/
 
