@@ -60,6 +60,9 @@ http://www.nebulapresets.com/?product=henry-olonga-beautiful-room-impulse-respon
 Studio Nord Bremen Analog Reverbs (EMT Plate & AKG Spring)
 http://www.grgr.de/IR/
 
+Spring Reverb Impulse Responses (192kHz) by Qhohi
+https://qhohi.bandcamp.com/album/spring-reverb-impulse-responses-192khz
+
 
 ## Real places & spaces, indoors & outdoors
 
@@ -83,6 +86,9 @@ http://www.echothief.com/
 Hainbach Pool Of The Black Star
 https://www.patreon.com/posts/28297187
 
+Abandoned Audio - IRs of abandoned places in Berlin
+https://abandonedaudio.bandcamp.com/album/complete-bundle
+
 Allister Sandwich Impulse Response Collection - real indoor and outdoor spaces
 https://freesound.org/people/allistersandwich/packs/27118/
 
@@ -101,6 +107,12 @@ http://www.emes.de/pageseng/products/Impulsresponse/eimpulse.htm
 Thatcher Ulrich DIY Room Impulse responses - real bedroom, dining room, bathroom captured
 http://tulrich.com/recording/ir_capture/#menu (scroll down to the bottom)
 
+Clap Impulse Responses in Faraway Places by jonsept
+https://freesound.org/people/jonsept/packs/32542/
+
+Balloon Impulse Responses in Cool Spots by jonsept
+https://freesound.org/people/jonsept/packs/32541/
+
 MoreVox Free Pack 2020 - some real spaces and some analog devices captured
 http://www.morevox.com/web/freebbie.html
 
@@ -111,7 +123,7 @@ Professor Angelo Farina's public impulse responses of various theaters
 http://pcfarina.eng.unipr.it/Public/IMP-RESP/
 
 
-## guitar & bass amp cabinets (coming soon)
+## guitar & bass amp cabinets (more coming soon)
 
 Henry Olonga Amps Bundle Community Edition
 http://www.nebulapresets.com/Henry_Olonga_ULTRA_HiRes_Amp_Models_VOL_1.zip
