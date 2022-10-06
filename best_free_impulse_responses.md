@@ -140,5 +140,11 @@ http://www.nebulapresets.com/Henry_Olonga_ULTRA_HiRes_Amp_Models_VOL_1.zip
 Studio Nord Bremen Amps
 http://www.grgr.de/IR/
 
+TL806 and Basement 1960B Guitar Cab Impulse Responses by Zach Weeks
+https://zachweeks.bandcamp.com/album/tl806-and-basement-1960b-guitar-cab-impulse-responses
+
+
+
+
 
 
