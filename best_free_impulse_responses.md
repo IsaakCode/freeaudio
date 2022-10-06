@@ -89,6 +89,9 @@ https://www.patreon.com/posts/28297187
 Abandoned Audio - IRs of abandoned places in Berlin
 https://abandonedaudio.bandcamp.com/album/complete-bundle
 
+University of Kent IRs: A Sonic Palimpsest: Revisiting Chatham Historic Dockyards
+https://research.kent.ac.uk/sonic-palimpsest/impulse-responses/
+
 Allister Sandwich Impulse Response Collection - real indoor and outdoor spaces
 https://freesound.org/people/allistersandwich/packs/27118/
 
