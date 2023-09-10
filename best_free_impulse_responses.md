@@ -63,6 +63,9 @@ http://www.grgr.de/IR/
 Spring Reverb Impulse Responses (192kHz) by Qhohi
 https://qhohi.bandcamp.com/album/spring-reverb-impulse-responses-192khz
 
+Yamaha SPX90 II by Jamie Skeen 
+http://www.mediafire.com/file/oxgv0bniyyo/Yamaha+SPX90II.7z
+https://forum.cockos.com/showthread.php?t=18712
 
 ## Real places & spaces, echo chambers (indoors & outdoors)
 
