@@ -64,7 +64,7 @@ Spring Reverb Impulse Responses (192kHz) by Qhohi
 https://qhohi.bandcamp.com/album/spring-reverb-impulse-responses-192khz
 
 
-## Real places & spaces, indoors & outdoors
+## Real places & spaces, echo chambers (indoors & outdoors)
 
 EdV3rb – LITE - industry & factory hall, staircase https://tovusound.com/shop/edv3rb-lite/
 
@@ -131,6 +131,8 @@ https://floaudio.fr/product/flo-audio-x-rooms-demo/
 Professor Angelo Farina's public impulse responses of various theaters
 http://pcfarina.eng.unipr.it/Public/IMP-RESP/
 
+Barefoot Recording Impulse Response Project
+https://www.cianriordan.com/barefoot
 
 ## guitar & bass amp cabinets (more coming soon)
 
