@@ -63,8 +63,11 @@ http://www.grgr.de/IR/
 Spring Reverb Impulse Responses (192kHz) by Qhohi
 https://qhohi.bandcamp.com/album/spring-reverb-impulse-responses-192khz
 
+Yamaha SPX90 II by Jamie Skeen 
+http://www.mediafire.com/file/oxgv0bniyyo/Yamaha+SPX90II.7z
+https://forum.cockos.com/showthread.php?t=18712
 
-## Real places & spaces, indoors & outdoors
+## Real places & spaces, echo chambers (indoors & outdoors)
 
 EdV3rb – LITE - industry & factory hall, staircase https://tovusound.com/shop/edv3rb-lite/
 
@@ -88,6 +91,9 @@ https://www.patreon.com/posts/28297187
 
 Abandoned Audio - IRs of abandoned places in Berlin
 https://abandonedaudio.bandcamp.com/album/complete-bundle
+
+University of Kent IRs: A Sonic Palimpsest: Revisiting Chatham Historic Dockyards
+https://research.kent.ac.uk/sonic-palimpsest/impulse-responses/
 
 Allister Sandwich Impulse Response Collection - real indoor and outdoor spaces
 https://freesound.org/people/allistersandwich/packs/27118/
@@ -119,12 +125,17 @@ http://www.morevox.com/web/freebbie.html
 Reaperblog Kidsróom IRs
 https://www.dropbox.com/s/vshg2hnzt8ikdpu/REAPERBLOG_KIDSROOM_IRS.zip?dl=0
 
+Studio Balkandji Spaces 
+https://studiobalkandji.com/product-category/studiobalkandji/
+
 Flo Audio x Rooms demo
 https://floaudio.fr/product/flo-audio-x-rooms-demo/
 
 Professor Angelo Farina's public impulse responses of various theaters
 http://pcfarina.eng.unipr.it/Public/IMP-RESP/
 
+Barefoot Recording Impulse Response Project
+https://www.cianriordan.com/barefoot
 
 ## guitar & bass amp cabinets (more coming soon)
 
@@ -133,6 +144,12 @@ http://www.nebulapresets.com/Henry_Olonga_ULTRA_HiRes_Amp_Models_VOL_1.zip
 
 Studio Nord Bremen Amps
 http://www.grgr.de/IR/
+
+TL806 and Basement 1960B Guitar Cab Impulse Responses by Zach Weeks
+https://zachweeks.bandcamp.com/album/tl806-and-basement-1960b-guitar-cab-impulse-responses
+
+
+
 
 
 
