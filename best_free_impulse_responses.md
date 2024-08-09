@@ -105,7 +105,7 @@ Hybrid Reverb 2 Room Impulse Responses Library - real spaces
 https://web.archive.org/web/20191028120033/http://www2.ika.rub.de:80/HybridReverb2/#download
 
 Balancemastering Teufelsberg NSA tower
-http://www.balancemastering.com/blog/free-teufelsberg-nsa-listening-tower-impulse-responses-ir-irs-convolution/
+https://x42-plugins.com/tmp/teufelsberg-ir.zip
 
 EMES Virtual Rooms - based on articial room models, that are supposed to take away some of the artifacts of real room captures
 http://www.emes.de/pageseng/products/Impulsresponse/eimpulse.htm
