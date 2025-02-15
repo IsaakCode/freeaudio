@@ -33,6 +33,10 @@ Samplephonics Smashed Analogue Kit https://www.noiiz.com/sounds/free_packs/734
 
 Organic Loops Free Loops & One Shots https://www.organicdrumloops.com/
 
+Kyle Krysa Basement Drums Vol. 1 https://drive.google.com/drive/folders/1YXWlHGJMcc2X8qhTs3K95R-9IQLd79aA
+
+Kyle Krysa Basement Drums Vol. 2 https://kylekrysadrums.com/store/basement-drums-vol.-2
+
 
 #### Percussion
 
