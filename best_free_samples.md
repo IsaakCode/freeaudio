@@ -5,13 +5,15 @@
 
 #### Acoustic Drums
 
+SM Drums Deeply Sampled Free Drums https://smmdrums.wordpress.com/
+
 Strike Sound Home Kit http://strikesound.limitedrun.com/products/554846-strike-sound-home-kit
 
 AVL Drumkits http://www.bandshed.net/avldrumkits/
 
 MF Natural Drumset (Fiedler Audio) https://www.fiedler-audio.de/creative-commons-library/
 
-Naked Drums (Wilkinson Audio, SFZ by kinwie) 
+Naked Drums (Samples by Wilkinson Audio, SFZ / Aria mapping by kinwie available here: https://github.com/sfzinstruments/WilkinsonAudio.NakedDrums/tree/master) 
 
 Sams Sonor (Sam Greene, SFZ by kinwie) https://github.com/sfzinstruments/SamsSonor
 
